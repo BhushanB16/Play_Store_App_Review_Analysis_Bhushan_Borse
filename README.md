@@ -24,3 +24,28 @@ We have a dataset of mobile apps on the Google Play Store, which contains variou
 10. What is the Average Distribution of Rating of app on play store?
 11. What are the count of applications in each category differentiated by their type?
 12. What portion of the apps in playstore are paid and free?
+
+Conclusion -
+
+*  The most popular app categories in terms of number of installations are games,news and magzines , family and Productivity .
+* Most of the apps are Free, so focusing on free app is more important.
+
+* They need to focus on updating their apps regularly, so that it will attract more users.
+
+*  There is a weak correlation between app size and number of installs.
+
+*  The average rating of apps is high, around 4.30 out of 5.
+
+*  There is a weak positive correlation between app rating and number of reviews.
+
+*  There is a weak positive correlation between app rating and number of installs.
+
+*  The majority of the apps are aimed at everyone, followed by teenagers and mature audiences.
+
+*  There is a weak correlation between app type and app rating.
+
+*  There is a weak negative correlation between app size and app rating.
+
+
+
+ Overall, the insights gained from the analysis can help the client make informed decisions when developing and launching new apps on the Play Store. They can use the insights to identify the most popular categories and user demographics and optimize their app's pricing, size, and rating to attract more users and maximize their installs and revenue.
